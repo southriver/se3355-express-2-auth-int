@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "i18n": "^0.15.1",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  },
+  "name": "express-2-auth-int",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
